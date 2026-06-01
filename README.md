@@ -1,4 +1,3 @@
-<!--Radan Mina Gabriela, 314CA-->
 # Problema 1 - Battleships
 
 Scopul primei probleme este de a simula unul sau mai multe meciuri ale 
