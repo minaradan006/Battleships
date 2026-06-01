@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//functia allocate_int_matrix alocheaza dinamic memorie unei matrice cu valori
+//functia allocate_int_matrix aloca dinamic memorie unei matrice cu valori
 //int.
 int **allocate_int_matrix(int n)
 {
@@ -34,7 +34,7 @@ void free_int_matrix(int **matrix, int n)
 	free(matrix);
 }
 
-//functia allocate_char_matrix alocheaza dinamic memorie unei matrice cu valori
+//functia allocate_char_matrix aloca dinamic memorie unei matrice cu valori
 //char.
 char **allocate_char_matrix(int n, int m)
 {
